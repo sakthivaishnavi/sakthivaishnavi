@@ -8,11 +8,12 @@
 <a target="_blank" href="https://leetcode.com/u/Sakthivaishnavi/" style="display: inline-block;"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a></p>
 <br>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthivaishnavi&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px; background-color: #2e2e2e;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivaishnavi&" alt="GitHub Streak" style="max-width: 100%; width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px; background-color: #333333;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakthivaishnavi&show_icons=true&locale=en" alt="GitHub Stats" style="width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); margin: 10px; background-color: #2f2f2f; padding: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivaishnavi&" alt="GitHub Streak" style="width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); margin: 10px; background-color: #383838; padding: 10px;"/>
 </p>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthivaishnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px; background-color: #444444;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthivaishnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 300px; height: 200px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); margin: 10px; background-color: #444444; padding: 10px;"/>
 </p>
+
 
 
