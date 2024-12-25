@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**sakthivaishnavi/sakthivaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi 👋, I'm SakthiVaishnavi</h1>
+<p>I am a passionate and proficient full-stack developer with a strong focus on front-end development. Skilled in major programming languages, I am highly motivated in problem-solving and continuously expanding my expertise through full-stack projects. My dedication drives me to deliver innovative and efficient solutions.</p><br>
+<h2>🚀 Languages and Tools I Use</h2>
+<table> <tr> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" /><br /><b>C</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" /><br /><b>Java</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br /><b>JavaScript</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br /><b>Python</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React" /><br /><b>React</b></td> <td align="center" width="100"><img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42" alt="React Native" /><br /><b>React Native</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5" /><br /><b>HTML5</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3" /><br /><b>CSS3</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" /><br /><b>Bootstrap</b></td> <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS" /><br /><b>Tailwind CSS</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express" /><br /><b>Express</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js" /><br /><b>Node.js</b></td><tr> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB" /><br /><b>MongoDB</b></td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL" /><br /><b>MySQL</b></td> <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="42" height="42" alt="Vercel" /><br /><b>Vercel</b></td> <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="42" height="42" alt="Netlify" /><br /><b>Netlify</b></td> <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git" /><br /><b>Git</b></td>  <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" /><br /><b>AWS</b></td> <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma" /><br /><b>Figma</b></td> </tr> </table>
+<br>
+<h2>My Social profiles</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sakthivaishnavi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://leetcode.com/u/Sakthivaishnavi/" style="display: inline-block;"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthivaishnavi&show_icons=true&locale=en" alt="sakthivaishnavi" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivaishnavi&" alt="sakthivaishnavi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthivaishnavi&show_icons=true&locale=en&layout=compact" alt="sakthivaishnavi" /></p>
