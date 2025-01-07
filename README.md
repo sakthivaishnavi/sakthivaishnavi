@@ -9,7 +9,7 @@
 <h2>My Social profiles</h2>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sakthivaishnavi&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; width: 300px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivaishnavi&" alt="GitHub Streak" style="max-width: 100%; width: 300px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivaishnavi&" alt="GitHub Streak" style="max-width: 100%; width: 300px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px; color:black"/>
 </p>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthivaishnavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; width: 300px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); margin: 10px;"/>
